@@ -1,6 +1,6 @@
 # The Devonshire House
 
-![devonshire_house_with_grid](./devonshire-house-grid.png)
+![devonshire_house_with_grid](./devonshire-house-no-grid.png)
 
 The Devonshire House is a hybrid of [case study homes](https://en.wikipedia.org/wiki/Case_Study_Houses).  The overarching concept of the house borrows from case study home #4 - the Greenbelt House; the central focus of this home is the interior garden and greenery area with meandering walkways.  This space divided the home into two halves: the recreational space and the living quarters space.
 
