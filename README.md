@@ -27,4 +27,6 @@ The master bedroom and bathroom are inspired by case study house #28's master be
 
 I used to live on Devonshire Street in the San Fernando Valley.  Case Study House 24 was designed to serve as a basis for a tract of [Eichler Homes](https://en.wikipedia.org/wiki/Joseph_Eichler) located near Mason Avenue and Devonshire Street in Northridge, California.  
 
+![](./eichler-homes.jpg)
+
 During my sketching, I brewed some [Devonshire Earl Grey](https://www.uptontea.com/earl-grey-tea/earl-grey-loose-leaf-black-tea/p/V00727/) for the essence of this exercise.
