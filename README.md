@@ -10,6 +10,8 @@ The recreational space of the Greenbelt House had a kitchen, dining room, and a 
 
 ![recessed](./recessed-living-room.jpg)
 
+The garage is a hybrid of Case Study House #24 and #28.  It usess the placement in #24 and two way access in #28.
+
 ### Case Study House #24
 
 ![original-layout](./layout-24.jpg)
@@ -19,6 +21,8 @@ The recreational space of the Greenbelt House had a kitchen, dining room, and a 
 The master bedroom and bathroom are inspired by case study house #28's master bedroom and bathroom (see #28's layout below).  The remainder of the space is a blend of the Greenbelt's house of simplicity and the consecutive flow of bedrooms that are in Case Study House #24.  In Case Study House #24, each room had its own access to the yard.  In the Devonshire House, the greenbelt interior maintains each bedroom's yard access.
 
 ![layout-28](./layout-28.png)
+
+Case Study House #24 had shaded areas to the left and right of the living room area. The Devonshire house keeps one of these areas, the other is converted into more utilitarian space with an office, gym, and hobby shed where one is able to work on crafts (woodworking, electronics, 3D printing, etc.).
 
 
 ## FAQ
