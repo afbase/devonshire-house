@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70218" creator="Ipe 7.2.23">
-<info created="D:20210309191233" modified="D:20210309192102"/>
+<info created="D:20210309191233" modified="D:20210406214222"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -370,18 +370,14 @@ h
 768 5648 l
 768 5648 l
 </path>
-<path stroke="black">
-400 5456 m
-768 5456 l
-</path>
-<path stroke="black">
+<path matrix="1 0 0 1 -16 0" stroke="black">
 432 5488 m
 432 5584 l
 576 5584 l
 576 5488 l
 h
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -16 0" stroke="black">
 448 5568 m
 448 5504 l
 560 5504 l
@@ -517,18 +513,11 @@ h
 864 5232 l
 864 5360 l
 </path>
-<path stroke="black">
+<path stroke="0">
 400 5456 m
 400 5344 l
 576 5344 l
 576 5456 l
-h
-</path>
-<path stroke="black">
-400 5344 m
-400 5232 l
-736 5232 l
-736 5344 l
 h
 </path>
 <text transformations="translations" pos="448 5312" stroke="black" type="label" valign="baseline">Gym
@@ -563,13 +552,6 @@ h
 864 5952 l
 224 5952 l
 224 5232 l
-</path>
-<path stroke="0">
-736 5232 m
-736 5456 l
-864 5456 l
-864 5232 l
-h
 </path>
 <text transformations="translations" pos="784 5360" stroke="0" type="label" valign="baseline">Hobby Shed</text>
 <text transformations="translations" pos="608 5424" stroke="0" type="label" valign="baseline">Very Zenful Foyer</text>
@@ -782,5 +764,25 @@ h
 192 5440 m
 224 5440 l
 </path>
+<path stroke="black">
+736 5344 m
+736 5456 l
+</path>
+<path stroke="black" dash="dashed" pen="fat">
+576 5456 m
+576 5568 l
+</path>
+<path stroke="0">
+768 5456 m
+736 5456 l
+</path>
+<path stroke="0">
+736 5344 m
+576 5344 l
+</path>
+<text transformations="translations" pos="448 5552" stroke="0" type="label" valign="baseline">recessed lounge</text>
+<text transformations="translations" pos="768 5584" stroke="0" type="label" valign="baseline">Guest Room</text>
+<text transformations="translations" pos="784 5568" stroke="0" type="label" valign="baseline">&amp;</text>
+<text transformations="translations" pos="768 5552" stroke="0" type="label" valign="baseline">Vinyl Library</text>
 </page>
 </ipe>
